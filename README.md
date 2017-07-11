@@ -1,5 +1,5 @@
 # hello-world
-getting started, GitHub!
+getting nowhere, GitHub!
 
 // this changes are made for testing how commit works!
 // OK, here are the changes :
